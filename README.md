@@ -1,6 +1,6 @@
 # Minimum Viable Just Works Client for HTTP Hole
 
-This is a command line client for http-hole written with node. It subscribes to a number of webhooks on the `http hole server` specified via its config file and calls user specified http endpoints for each one allowing you to replay webhook calls to your public `http hole server` on you local machine for testing and development.
+This is a command line client for [http-hole](https://github.com/rahimi-ali/http-hole) written with node. It subscribes to a number of webhooks on the `http hole server` specified via its config file and calls user specified http endpoints for each one allowing you to replay webhook calls to your public `http hole server` on you local machine for testing and development.
 
 ## Usage
 
